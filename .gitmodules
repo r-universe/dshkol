@@ -11,3 +11,6 @@
 [submodule "bayesiansurpriser"]
 	path = bayesiansurpriser
 	url = https://github.com/dshkol/bayesiansurpriser
+[submodule "griddy"]
+	path = griddy
+	url = https://github.com/dshkol/griddy
